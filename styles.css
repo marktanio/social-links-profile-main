@@ -56,6 +56,11 @@ img{
     height: 45px;
 }
 
+.links:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+}
+
 @media (max-width: 385px) {
     .box {
       width: 300px;
